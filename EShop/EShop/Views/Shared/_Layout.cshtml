@@ -1,0 +1,93 @@
+﻿@using System.Net.Http
+@using EShop.Utility
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+@{ var userRole = HttpContextAccessor.HttpContext.Session.GetString("roleName");
+    int count = 1;
+    List<Products> products = HttpContextAccessor.HttpContext.Session.Get<List<Products>>("products");
+    if (products == null)
+    {
+        products = new List<Products>();
+    }
+    count = products.Count(); }
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - EShop</title>
+    <link rel="icon" type="image/x-icon" href="~/Images/online-shopping.png">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <style>
+        body {-->
+            @* background-image: url('https://media.istockphoto.com/photos/supermarket-trolleys-stand-in-a-row-outside-the-store-picture-id1364943913?s=612x612');*@
+            <!--background-image: url('https://img.freepik.com/free-photo/laptop-shopping-bags-online-shopping-concept_1423-189.jpg?w=1060&t=st=1652195034~exp=1652195634~hmac=41c087cfa17e97ea3b250412018724500a5be021a5a00dbeb9b72349292f7ce8');-->
+            @*background-image: url('https://eshopstrorage.blob.core.windows.net/eshopbackgroundimage/bg.png?sp=r&st=2022-05-10T15:42:40Z&se=2022-05-10T23:42:40Z&spr=https&sv=2020-08-04&sr=b&sig=VEFHbwP9sLJ1%2Ftd7FisIOf9wHFPqPD8I7Uqu8DgroGY%3D');*@
+            <!--background-repeat: no-repeat;
+            background-size:100% 92.9%
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">EShop</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="Customer" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Privacy">AboutUS</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="Admin" asp-controller="ProductTypes" asp-action="Index">ProductTypes</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="Admin" asp-controller="SpecialTag" asp-action="Index">TagName</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="Admin" asp-controller="Product" asp-action="Index">Product</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="Customer" asp-controller="User" asp-action="Index">UserDetails</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="Customer" asp-controller="Home" asp-action="Cart">
+                                Cart
+                                (@count)
+                            </a>
+                        </li>
+                    </ul>
+                    <partial name="_LoginPartial" />
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2022 - EShop - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

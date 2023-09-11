@@ -1,0 +1,1491 @@
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\appsettings.json
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\EShop.StaticWebAssets.xml
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\EShop.exe
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\EShop.deps.json
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\EShop.runtimeconfig.json
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\EShop.runtimeconfig.dev.json
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\EShop.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\ref\EShop.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\EShop.pdb
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\EShop.Views.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\EShop.Views.pdb
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Pranit\source\repos\EShop\EShop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\EShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\EShop.AssemblyInfoInputs.cache
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\EShop.AssemblyInfo.cs
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\EShop.csproj.CoreCompileInputs.cache
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\EShop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\EShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\EShop.RazorAssemblyInfo.cache
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\EShop.RazorAssemblyInfo.cs
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\staticwebassets\EShop.StaticWebAssets.Manifest.cache
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\staticwebassets\EShop.StaticWebAssets.xml
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\scopedcss\bundle\EShop.styles.css
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\EShop.TagHelpers.input.cache
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\EShop.TagHelpers.output.cache
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\EShop.RazorCoreGenerate.cache
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\EShop.RazorTargetAssemblyInfo.cache
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\EShop.RazorTargetAssemblyInfo.cs
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\EShop.Views.pdb
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\EShop.csproj.CopyComplete
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\EShop.dll
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\ref\EShop.dll
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\EShop.pdb
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\EShop.genruntimeconfig.cache
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\EShop.csproj.AssemblyReference.cache
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Index.cshtml.g.cs
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Pranit\source\repos\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\appsettings.Development.json
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\appsettings.json
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\EShop.StaticWebAssets.xml
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\EShop.exe
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\EShop.deps.json
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\EShop.runtimeconfig.json
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\EShop.runtimeconfig.dev.json
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\EShop.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\ref\EShop.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\EShop.pdb
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\EShop.Views.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\EShop.Views.pdb
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Humanizer.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\EShop.csproj.AssemblyReference.cache
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\EShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\EShop.AssemblyInfoInputs.cache
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\EShop.AssemblyInfo.cs
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\EShop.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\EShop.MvcApplicationPartsAssemblyInfo.cs
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\EShop.MvcApplicationPartsAssemblyInfo.cache
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\EShop.RazorAssemblyInfo.cache
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\EShop.RazorAssemblyInfo.cs
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\staticwebassets\EShop.StaticWebAssets.Manifest.cache
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\staticwebassets\EShop.StaticWebAssets.xml
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\scopedcss\bundle\EShop.styles.css
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\EShop.TagHelpers.input.cache
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\EShop.TagHelpers.output.cache
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\EShop.RazorCoreGenerate.cache
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\EShop.RazorTargetAssemblyInfo.cache
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\EShop.RazorTargetAssemblyInfo.cs
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\EShop.Views.pdb
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\EShop.csproj.CopyComplete
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\EShop.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\ref\EShop.dll
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\EShop.pdb
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\EShop.genruntimeconfig.cache
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Index.cshtml.g.cs
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Create.cshtml.g.cs
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_ButtonPartial.cshtml.g.cs
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Edit.cshtml.g.cs
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Details.cshtml.g.cs
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Delete.cshtml.g.cs
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Index.cshtml.g.cs
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Create.cshtml.g.cs
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Edit.cshtml.g.cs
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Details.cshtml.g.cs
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Delete.cshtml.g.cs
+D:\Capgemini Training\Project\New folder\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_TagPageButtonPartial.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\appsettings.Development.json
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\appsettings.json
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\EShop.StaticWebAssets.xml
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\EShop.exe
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\EShop.deps.json
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\EShop.runtimeconfig.json
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\EShop.runtimeconfig.dev.json
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\EShop.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\ref\EShop.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\EShop.pdb
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\EShop.Views.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\EShop.Views.pdb
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Humanizer.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\EShop.csproj.AssemblyReference.cache
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\EShop.GeneratedMSBuildEditorConfig.editorconfig
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\EShop.AssemblyInfoInputs.cache
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\EShop.AssemblyInfo.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\EShop.csproj.CoreCompileInputs.cache
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\EShop.MvcApplicationPartsAssemblyInfo.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\EShop.MvcApplicationPartsAssemblyInfo.cache
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\EShop.RazorAssemblyInfo.cache
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\EShop.RazorAssemblyInfo.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\staticwebassets\EShop.StaticWebAssets.Manifest.cache
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\staticwebassets\EShop.StaticWebAssets.xml
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\scopedcss\bundle\EShop.styles.css
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\EShop.TagHelpers.input.cache
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\EShop.TagHelpers.output.cache
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\EShop.RazorCoreGenerate.cache
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Create.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Delete.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Details.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Edit.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Index.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Create.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Delete.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Details.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Edit.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Index.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_ButtonPartial.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_TagPageButtonPartial.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\EShop.RazorTargetAssemblyInfo.cache
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\EShop.RazorTargetAssemblyInfo.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\EShop.Views.pdb
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\EShop.csproj.CopyComplete
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\EShop.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\ref\EShop.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\EShop.pdb
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\EShop.genruntimeconfig.cache
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Details.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Delete.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\X.PagedList.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Details.cshtml.g.cs
+E:\C_Sharp\Capgemini Project\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Cart.cshtml.g.cs
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\appsettings.Development.json
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\appsettings.json
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\EShop.StaticWebAssets.xml
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\EShop.exe
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\EShop.deps.json
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\EShop.runtimeconfig.json
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\EShop.runtimeconfig.dev.json
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\EShop.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\ref\EShop.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\EShop.pdb
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\EShop.Views.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\EShop.Views.pdb
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Humanizer.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\X.PagedList.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ASPNet\EShop\EShop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\EShop.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\EShop.AssemblyInfoInputs.cache
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\EShop.AssemblyInfo.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\EShop.csproj.CoreCompileInputs.cache
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\EShop.MvcApplicationPartsAssemblyInfo.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\EShop.MvcApplicationPartsAssemblyInfo.cache
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\EShop.RazorAssemblyInfo.cache
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\EShop.RazorAssemblyInfo.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\staticwebassets\EShop.StaticWebAssets.Manifest.cache
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\staticwebassets\EShop.StaticWebAssets.xml
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\scopedcss\bundle\EShop.styles.css
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\EShop.TagHelpers.input.cache
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\EShop.TagHelpers.output.cache
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\EShop.RazorCoreGenerate.cache
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Create.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Delete.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Details.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Edit.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Index.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Delete.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Details.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Create.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Delete.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Details.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Edit.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Index.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Cart.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Detail.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Order\Checkout.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_ButtonPartial.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_TagPageButtonPartial.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\EShop.RazorTargetAssemblyInfo.cache
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\EShop.RazorTargetAssemblyInfo.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\EShop.Views.pdb
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\EShop.csproj.CopyComplete
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\EShop.dll
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\ref\EShop.dll
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\EShop.pdb
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\EShop.genruntimeconfig.cache
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\EShop.csproj.AssemblyReference.cache
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\ASPNet\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\appsettings.Development.json
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\appsettings.json
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\EShop.StaticWebAssets.xml
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\EShop.exe
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\EShop.deps.json
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\EShop.runtimeconfig.json
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\EShop.runtimeconfig.dev.json
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\EShop.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\EShop.pdb
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\EShop.Views.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\EShop.Views.pdb
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Humanizer.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\X.PagedList.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\EShop.csproj.AssemblyReference.cache
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\EShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\EShop.AssemblyInfoInputs.cache
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\EShop.AssemblyInfo.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\EShop.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\EShop.MvcApplicationPartsAssemblyInfo.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\EShop.MvcApplicationPartsAssemblyInfo.cache
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\EShop.RazorAssemblyInfo.cache
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\EShop.RazorAssemblyInfo.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\staticwebassets\EShop.StaticWebAssets.Manifest.cache
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\staticwebassets\EShop.StaticWebAssets.xml
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\scopedcss\bundle\EShop.styles.css
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\EShop.TagHelpers.input.cache
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\EShop.TagHelpers.output.cache
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\EShop.RazorCoreGenerate.cache
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Create.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Delete.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Details.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Edit.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Index.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Delete.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Details.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Create.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Delete.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Details.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Edit.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Index.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Cart.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Detail.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Order\Checkout.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_ButtonPartial.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_TagPageButtonPartial.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\EShop.RazorTargetAssemblyInfo.cache
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\EShop.RazorTargetAssemblyInfo.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\EShop.Views.pdb
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\EShop.csproj.CopyComplete
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\EShop.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\ref\EShop.dll
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\EShop.pdb
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\EShop.genruntimeconfig.cache
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\appsettings.Development.json
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\appsettings.json
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\EShop.StaticWebAssets.xml
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\EShop.exe
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\EShop.deps.json
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\EShop.runtimeconfig.json
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\EShop.runtimeconfig.dev.json
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\EShop.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\ref\EShop.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\EShop.pdb
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\EShop.Views.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\EShop.Views.pdb
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Humanizer.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\X.PagedList.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\L1Sprint\EShop\EShop\EShop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\EShop.csproj.AssemblyReference.cache
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\EShop.GeneratedMSBuildEditorConfig.editorconfig
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\EShop.AssemblyInfoInputs.cache
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\EShop.AssemblyInfo.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\EShop.csproj.CoreCompileInputs.cache
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\EShop.MvcApplicationPartsAssemblyInfo.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\EShop.MvcApplicationPartsAssemblyInfo.cache
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\EShop.RazorAssemblyInfo.cache
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\EShop.RazorAssemblyInfo.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\staticwebassets\EShop.StaticWebAssets.Manifest.cache
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\staticwebassets\EShop.StaticWebAssets.xml
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\scopedcss\bundle\EShop.styles.css
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\EShop.TagHelpers.input.cache
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\EShop.TagHelpers.output.cache
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\EShop.RazorCoreGenerate.cache
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Create.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Delete.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Details.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Edit.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Index.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Delete.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Details.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Create.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Delete.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Details.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Edit.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Index.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Cart.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Detail.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Order\Checkout.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_ButtonPartial.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_TagPageButtonPartial.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\EShop.RazorTargetAssemblyInfo.cache
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\EShop.RazorTargetAssemblyInfo.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\EShop.Views.pdb
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\EShop.csproj.CopyComplete
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\EShop.dll
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\ref\EShop.dll
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\EShop.pdb
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\EShop.genruntimeconfig.cache
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\User\Create.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\User\Edit.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\User\Details.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\User\Locout.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\User\Active.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\User\Delete.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\User\Index.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_PartialView.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\Index.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\Create.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Views\Roles\Index.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Views\UserRoles\Index.cshtml.g.cs
+E:\L1Sprint\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Views\Permission\Index.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\Create.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\Index.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\User\Active.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\User\Create.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\User\Delete.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\User\Details.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\User\Edit.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\User\Index.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\User\Locout.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Views\Permission\Index.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Views\Roles\Index.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_PartialView.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Views\UserRoles\Index.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\staticwebassets\EShop.StaticWebAssets.Pack.cache
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\staticwebassets\msbuild.EShop.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\staticwebassets\msbuild.build.EShop.props
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.EShop.props
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.EShop.props
+D:\Capgemini Training\Project\EShop\EShop\EShop\obj\Debug\net5.0\refint\EShop.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\appsettings.json
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\EShop.StaticWebAssets.xml
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\EShop.exe
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\EShop.deps.json
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\EShop.runtimeconfig.json
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\EShop.runtimeconfig.dev.json
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\EShop.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\EShop.pdb
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\EShop.Views.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\EShop.Views.pdb
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Humanizer.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\X.PagedList.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\EShop.csproj.AssemblyReference.cache
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\EShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\EShop.AssemblyInfoInputs.cache
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\EShop.AssemblyInfo.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\EShop.csproj.CoreCompileInputs.cache
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\EShop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\EShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\EShop.RazorAssemblyInfo.cache
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\EShop.RazorAssemblyInfo.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\scopedcss\bundle\EShop.styles.css
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\staticwebassets\EShop.StaticWebAssets.Manifest.cache
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\staticwebassets\EShop.StaticWebAssets.Pack.cache
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\staticwebassets\msbuild.EShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\staticwebassets\msbuild.build.EShop.props
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.EShop.props
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.EShop.props
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\staticwebassets\EShop.StaticWebAssets.xml
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\EShop.TagHelpers.input.cache
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\EShop.TagHelpers.output.cache
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\EShop.RazorCoreGenerate.cache
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Create.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Delete.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Details.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Edit.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Index.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Delete.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Details.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\Create.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\Index.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Create.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Delete.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Details.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Edit.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\SpecialTag\Index.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Cart.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Detail.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Order\Checkout.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\User\Active.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\User\Create.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\User\Delete.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\User\Details.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\User\Edit.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\User\Index.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\User\Locout.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Views\Permission\Index.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Views\Roles\Index.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_ButtonPartial.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_PartialView.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_TagPageButtonPartial.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Views\UserRoles\Index.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\EShop.RazorTargetAssemblyInfo.cache
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\EShop.RazorTargetAssemblyInfo.cs
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\EShop.Views.pdb
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\EShop.csproj.CopyComplete
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\EShop.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\refint\EShop.dll
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\EShop.pdb
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\EShop.genruntimeconfig.cache
+C:\Users\SR163\OneDrive - Capgemini\Desktop\EShop1\EShop\EShop\obj\Debug\net5.0\ref\EShop.dll
