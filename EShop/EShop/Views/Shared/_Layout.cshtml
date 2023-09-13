@@ -1,6 +1,7 @@
 ﻿@using System.Net.Http
 @using EShop.Utility
 @using Microsoft.AspNetCore.Http
+@using Microsoft.AspNetCore.Identity
 @inject IHttpContextAccessor HttpContextAccessor
 @{ var userRole = HttpContextAccessor.HttpContext.Session.GetString("roleName");
     int count = 1;
